@@ -1,0 +1,15 @@
+C:\Users\user\Documents\negativo1\negativo-1\bin\Debug\net8.0\negativo-1.exe
+C:\Users\user\Documents\negativo1\negativo-1\bin\Debug\net8.0\negativo-1.deps.json
+C:\Users\user\Documents\negativo1\negativo-1\bin\Debug\net8.0\negativo-1.runtimeconfig.json
+C:\Users\user\Documents\negativo1\negativo-1\bin\Debug\net8.0\negativo-1.dll
+C:\Users\user\Documents\negativo1\negativo-1\bin\Debug\net8.0\negativo-1.pdb
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.AssemblyInfo.cs
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.sourcelink.json
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.dll
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\refint\negativo-1.dll
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.pdb
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\negativo-1.genruntimeconfig.cache
+C:\Users\user\Documents\negativo1\negativo-1\obj\Debug\net8.0\ref\negativo-1.dll

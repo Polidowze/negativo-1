@@ -10,15 +10,15 @@ numero = Convert.ToInt32(Console.ReadLine());
 
 if(numero < 0){
 
-Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine("este numero não existe no banco de dados pois não é negativo.");
+Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine("O numero digitado é negativo.");
 
 }
 
 if(numero > 0){
 
-Console.ForegroundColor = ConsoleColor.Blue;
-    Console.WriteLine("Seu numero é positivo.");
+Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine("este numero não existe no banco de dados pois não é negativo.");
 
 }
 
